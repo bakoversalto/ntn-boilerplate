@@ -4,6 +4,7 @@
   "title": "Et bilde",
   "description": "Bilde",
   "gallery": [
+    "/img/fjell.jpg",
     "/img/fjell.jpg"
   ],
   "body": "Litt brødtekst"
